@@ -1,0 +1,13 @@
+[2022-09-25 04:19:22,379] DESKTOP-E4VQV9Q/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2022-09-25 04:19:22,436] DESKTOP-E4VQV9Q/INFO/locust.main: Starting Locust 2.10.1
+[2022-09-25 04:20:18,303] DESKTOP-E4VQV9Q/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2022-09-25 04:20:18,308] DESKTOP-E4VQV9Q/INFO/locust.runners: All users spawned: {"myUser": 1} (1 total users)
+[2022-09-25 04:20:18,899] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:20,101] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:21,347] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:22,988] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:24,430] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:26,372] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:28,395] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:30,394] DESKTOP-E4VQV9Q/INFO/root: Pass
+[2022-09-25 04:20:31,211] DESKTOP-E4VQV9Q/INFO/locust.main: Shutting down (exit code 0)
